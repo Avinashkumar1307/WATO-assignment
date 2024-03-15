@@ -12,11 +12,20 @@ npm i
 # development
 $ npm run start
 
-# watch mode
-$ npm run start:dev
+```
+npm i
+```
 
-# production mode
-$ npm run start:prod
+- Feature
+``` 
+
+1. Singup
+2. login
+3. dashboard
+4. Authenticatina
+5. Authorization
+6. Short - url
+
 ```
 
 
