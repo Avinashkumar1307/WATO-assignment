@@ -1,7 +1,22 @@
-***Node,Express and TypeScript ready to use template
+***Nodejs,Express and TypeScript ready to use template
+
+- Installation
+``` 
+
+npm i
+```
 
 - Running 
 ``` 
-yarn install
-yarn start
+
+# development
+$ npm run start
+
+# watch mode
+$ npm run start:dev
+
+# production mode
+$ npm run start:prod
 ```
+
+
